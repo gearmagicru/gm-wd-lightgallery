@@ -1,0 +1,32 @@
+{
+    "name": "gearmagicru/gm-wd-lightgallery",
+    "description": "Gallery widget \"LightGallery\"",
+    "keywords": [
+        "gm",
+        "gearmagic",
+        "site",
+        "widget",
+        "lightgallery"
+    ],
+    "homepage": "https://apps.gearmagic.ru/component/gm-wd-lightgallery",
+    "type": "component",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anton Tivonenko",
+            "email": "anton.tivonenko@gmail.com",
+            "homepage": "https://gearmagic.ru"
+        }
+    ],
+    "require": {
+        "gearmagicru/gm-composer-plugin": "*"
+    },
+    "extra": {
+        "gm": {
+            "id": "gm.wd.lightgallery",
+            "vendor": "gm"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
