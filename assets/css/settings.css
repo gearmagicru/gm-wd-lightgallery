@@ -1,0 +1,15 @@
+/*!
+ * Настройки виджета.
+ *
+ * Виджет "Блок Яндекс "Поделиться".
+ *
+ * Copyright 2015 Вeб-студия GearMagic
+ * Copyright Anton Tivonenko <anton.tivonenko@gmail.com>
+ * https://gearmagic.ru/license/
+ */
+
+ /* Значок социальных сетей */
+.gm-wd-lightgallery__checkbox .x-form-cb-label {
+    font-size: 12px;
+    color: #858585;
+}
