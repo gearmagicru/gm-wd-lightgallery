@@ -1,13 +1,7 @@
 {
     "name": "gearmagicru/gm-wd-lightgallery",
-    "description": "Gallery widget \"LightGallery\"",
-    "keywords": [
-        "gm",
-        "gearmagic",
-        "site",
-        "widget",
-        "lightgallery"
-    ],
+    "description": "Website widget \"LightGallery\"",
+    "keywords": ["gearmagic", "gm-panel", "gm-component", "gm-module", "module", "gallery"],
     "homepage": "https://apps.gearmagic.ru/component/gm-wd-lightgallery",
     "type": "component",
     "license": "MIT",
